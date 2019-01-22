@@ -1,0 +1,9 @@
+MULTIPLE RETURN VALUE 
+terdapat fungsi vals yang memiliki 2 inputan integer,
+apablia kedua inputan tersebut terisi, maka ariale inputan tersebut terisi, 
+maka variable inputan tersebut akan muncul sebagai 3 ( variabe1) dan 7(variable 2). 
+pada fungsi main(), a,b dijadikan inputan untuk fungsi vals() maka, a = 3 dan b = 7. lalu di cetak. 
+Setelah itu ada _ dan c sebagai inputan untuk variable ke 1 . maka c = 7 lalu varibale c dicetak
+
+COMMAND LINE 
+menandai kata string , integer, boolean 
