@@ -1,0 +1,4 @@
+program diatas membentuk sebuah localhost, untuk memberi tahu web apa yang kita akses,
+pada contoh tersebut kata “/’\” adalah web yang diakses. Apabila diubah dengan link, 
+maka akan muncul “ hello,you’ve requested:*link*’. 
+Tetapi apabila link tersebut tidak diketahui maka akan muncul “404 page not found”
