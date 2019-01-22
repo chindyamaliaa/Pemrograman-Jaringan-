@@ -1,0 +1,14 @@
+FOR 
+Pada for ada kondisi awal dan kondisi akhir, program for ini akan terus berjalan selama kodisi akhir belum terpenuhi 
+terdapat kondisi awal I = 1
+ada perulangan I =3 
+di perulangan ii mencetak angka I dan melakukan pertmabahan sampai nilai I terpenuhi sampai 3 
+perulangan kedua ada variable j yang dimulai dari angka 7 dan perulangan tersebut diulang sampai jkurang dari 9 
+perulangan ketiga tidak ada batasnya tetapi karna ada break maka perulangannya hanya satu kali untuk menampilkan loop 
+perulangan ke 4 ada variable n mencetak angka dari 0 sampai 5 tetapi di perulangan ini menyeleksi angka yang jika angka tersebut di modulo 2 hasilnya sama dengan 0 
+
+IF ELSE 
+jika pada if else cara kerja nya disini dengan menyeleksi berbagai kemungkinan yang bisa terjadi 
+kondisi pertama jika hasil dari 7 modulo 2 = 0 maka akan di menampilkan tulisan 7 is even jika hasil bukan = 0 makan akan menampilkan 7 is odd
+kondisi kedua jika 8 modulo 4 hasilnya = 0 maka akan menampilkan tulisan 8 is divisible by 4
+kodisi ketiga terdapat variable num yaitu angka 9 terdapat 3 kemungkinan jika num kurang dari 0 maka akan menampilkan is negative , jika num kurang dari 10 has 1 digit jika tidak keduanya akan menampilkan has multiple digits
