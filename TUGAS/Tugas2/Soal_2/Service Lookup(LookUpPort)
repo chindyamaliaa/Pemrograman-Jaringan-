@@ -19,12 +19,12 @@ func main(){
 	networkType := os.Args[1]
 	service := os.Args[2]
 
-	prt, err := net.LookupPort(networkType, service)
-	if err != nill{
+	port, err := net.LookupPort(networkType, service)
+	if err != nil{
 		fmt.Println("error: ", err.Error())
 		os.Exit(2)
 	}
 
-	mt.Println("service prot",port)
+	fmt.Println("service port", port)
 	os.Exit(0)
 }
